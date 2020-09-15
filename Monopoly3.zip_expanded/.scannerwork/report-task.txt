@@ -1,0 +1,7 @@
+organization=jonanderberoz
+projectKey=adb.monopoli
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.11982
+dashboardUrl=https://sonarcloud.io/dashboard?id=adb.monopoli
+ceTaskId=AXSRMvHFUKyU2xpq3IU6
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXSRMvHFUKyU2xpq3IU6
